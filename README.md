@@ -1,10 +1,9 @@
-**Kesug Launcher 🚀 : Une Nouvelle Expérience Minecraft Personnalisée**
+![{8952B99F-9AF6-4CB4-BF7E-A73661C89D55}](https://github.com/user-attachments/assets/37cbe80d-0dfd-4d48-bf81-2106d30946aa)**Kesug Launcher 🚀 : Une Nouvelle Expérience Minecraft Personnalisée**
 
 ### 🎮 Introduction
 Kesug Launcher est un lanceur Minecraft innovant et entièrement développé en Python 🐍, conçu pour offrir aux joueurs une expérience fluide, rapide et hautement personnalisable. Contrairement aux lanceurs traditionnels, Kesug Launcher met l'accent sur la modularité, la légèreté et l’optimisation des performances afin de convenir à tous types d'ordinateurs, qu'ils soient puissants ou modestes.
 
 ### ⚡ Caractéristiques Principales
-![Uploading {8952B99F-9AF6-4CB4-BF7E-A73661C89D55}.png…]()
 
 
 #### 🎨 1. **Interface Intuitive et Personnalisable**
